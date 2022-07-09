@@ -3,7 +3,7 @@
 --have fun (:
 --and sub to my yt til_tos for updates
 
-local Library = loadstring(game:HttpGet("https://pastebin.com/raw/ZxttgyJ6"))()
+local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/x2p3/hub/main/big"))()
 local Window = Library.CreateLib("Elemental Battlegrounds | Elementaljunky.v0.1 | made by til_tos", "DarkTheme")
 
 --| TABS |--
